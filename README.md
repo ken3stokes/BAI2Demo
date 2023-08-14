@@ -9,15 +9,15 @@
 📞 Contact
 
 ## 🌐 Overview
-The BAI2 (Bank Administration Institute) format is a renowned electronic standard utilized by banks globally for transmitting essential cash reporting and account reconciliation data to their esteemed customers.
+The BAI2 (Bank Administration Institute) format is a renowned electronic standard banks use for transmitting essential cash reporting and account reconciliation data to their esteemed customers.
 
 ## 📖 Structure
 The state-of-the-art mock BAI2 structure in this toolkit is delineated into:
 
-File Header: 📑 An illustrious marker indicating the dawn of the file whilst elucidating its intricate structure.
+File Header: 📑 An illustrious marker indicating the dawn of the file while elucidating its intricate Structure.
 Account Identifier: 🆔 A meticulous delineation of the account details under scrutiny.
 Transaction Detail: 💹 A granular exploration into the labyrinth of transactions.
-Control Total: ⚖️ A holistic summary encapsulating the quintessence of specific transaction genres or the file in its entirety.
+Control Total: ⚖️ A holistic summary encapsulating the quintessence of specific transaction genres or the entire file.
 
 ## 🔢 BAI2 Transaction Codes
 Emerge into the realm of standard transaction codes:
